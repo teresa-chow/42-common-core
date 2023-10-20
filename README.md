@@ -30,6 +30,6 @@ ___
 </br>
 
 ### License
-This work is published under the terms of [42 Unlicense]().
+This work is published under the terms of 42 Unlicense.
 
 [⬆ back to top](#42-common-core)
