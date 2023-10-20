@@ -1,7 +1,8 @@
 # 42 Common Core
 ![Static Badge](https://img.shields.io/badge/42%20School-Common%20Core%20curriculum-%2315bbbb)
 
-_Coursework developed during the Common Course curriculum at 42 Porto, part of the global 42 Network. **Kick-off #03**: 2 Oct. 2023_
+_Coursework developed during the Common Course curriculum at 42 Porto, part of the global 42 Network._
+
 ___
 
 
@@ -13,6 +14,8 @@ ___
 </br>
 
 # :flying_saucer: Projects
+
+> :rocket: **Kick-off #03:** 2 Oct. 2023
 
 </br>
 
