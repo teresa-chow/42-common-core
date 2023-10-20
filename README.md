@@ -6,7 +6,7 @@ ___
 
 
 ### Table of contents
-[Projects](#flying-saucer-projects) · [License](#license)
+[Projects](#flying_saucer-projects) · [License](#license)
 
 ___
 
