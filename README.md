@@ -26,7 +26,7 @@ ___
 
 Rank | Project | Language
 --|--|--
-0 | [Libft](https://github.com/teresa-chow/42-libft) | 
+0 | [Libft](https://github.com/teresa-chow/42-libft) | C, Makefile
 
 ___
 
