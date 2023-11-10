@@ -1,5 +1,5 @@
 # 42 Common Core
-![Static Badge](https://img.shields.io/badge/42%20School-Common%20Core%20curriculum-%2315bbbb)
+![Common Core curriculum](https://img.shields.io/badge/42%20School-Common%20Core%20curriculum-%2315bbbb)
 
 _Coursework developed during the [Common Core curriculum](https://42.fr/en/the-program/software-engineer-degree/) at 42 Porto, part of the global 42 Network._
 
