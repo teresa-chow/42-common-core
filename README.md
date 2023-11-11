@@ -25,9 +25,9 @@ ___
 </br>
 
 Rank | Project | Language | Score | Validation date | Activity
---|--|--|--|--|--
+--|--|--|--|:--:|--
 1 | ft_printf |
-0 | [Libft](https://github.com/teresa-chow/42-libft) | `C` , `Makefile` | 125/100 | 2023/11/11 | ![Libft last commit](https://img.shields.io/github/last-commit/teresa-chow/42-libft)
+0 | [Libft](https://github.com/teresa-chow/42-libft) | `C` , `Makefile` | 125/100 | 2023.11.11 | ![Libft last commit](https://img.shields.io/github/last-commit/teresa-chow/42-libft)
 
 ___
 
