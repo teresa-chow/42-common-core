@@ -7,7 +7,7 @@ ___
 
 
 ### Table of contents
-[Projects](#flying_saucer-projects) · [License](#license)
+[Projects](#flying_saucer-projects) · [Additional challenges](#telescope-additional-challenges)
 
 ___
 
@@ -34,8 +34,13 @@ ___
 
 </br>
 
-### License
-This work is published under the terms of [42 Unlicense](https://github.com/teresa-chow/42-common-core/blob/main/LICENSE).
+# :telescope: Additional challenges
+
+</br>
+
+Project | Language | Date | Notes
+--|--|--|--
+[Sogrape Hackathon](https://github.com/teresa-chow/42-hackathon-sogrape) | `Python` , `PHP` , `CSS` | 2023.10 | :3rd_place_medal: 3rd place
 
 </br>
 
