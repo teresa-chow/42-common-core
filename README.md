@@ -7,7 +7,7 @@ ___
 
 
 ### Table of contents
-[Projects](#flying_saucer-projects) · [Additional challenges](#telescope-additional-challenges)
+[Projects](#flying_saucer-projects) · [Exam preparation](#dart-exam-preparation) · [Additional challenges](#telescope-additional-challenges)
 
 ___
 
