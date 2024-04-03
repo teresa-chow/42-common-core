@@ -43,9 +43,9 @@ ___
 
 </br>
 
-Exam | Score | Validation date | Activity
---|--|:--:|--
-Exam Rank 02 |
+Exam | Score | Validation date
+--|--|:--:
+[Exam Rank 02](https://github.com/teresa-chow/42-exam-prep/tree/main/rank_02) | | 
 
 </br>
 
