@@ -7,7 +7,7 @@ ___
 
 
 ### Table of contents
-[Projects](#flying_saucer-projects) · [Exam preparation](#dart-exam-preparation) · [Additional challenges](#telescope-additional-challenges)
+[Projects](#flying_saucer-projects) · [Additional challenges](#telescope-additional-challenges)
 
 ___
 
@@ -26,28 +26,11 @@ ___
 
 Rank | Project | Tags | Language | Score | Validation date | Activity
 --|--|--|--|--|:--:|--
-2 | FdF |
-2 | push_swap |
-2 | [minitalk](https://github.com/teresa-chow/42-minitalk) | `server-client communication`, `UNIX signals` | | | | ![minitalk last commit](https://img.shields.io/github/last-commit/teresa-chow/42-minitalk)
 1 | [Born2beRoot](https://github.com/teresa-chow/42-Born2beRoot) | `VM`, `system administration` | `shell` | 120/100 | 2024.02.04 | ![Born2beRoot last commit](https://img.shields.io/github/last-commit/teresa-chow/42-Born2beRoot)
 1 | [get_next_line](https://github.com/teresa-chow/42-get_next_line) | `static variable`, `file descriptor` | `C` | 125/100 | 2024.01.04 | ![get_next_line last commit](https://img.shields.io/github/last-commit/teresa-chow/42-get_next_line)
 1 | [ft_printf](https://github.com/teresa-chow/42-ft_printf) | `variadic functions` | `C` , `Makefile` | 100/100 | 2023.11.27 | ![ft_printf last commit](https://img.shields.io/github/last-commit/teresa-chow/42-ft_printf)
 n.a. | [Libft (extended)](https://github.com/teresa-chow/42-libft-extended) | `C library`, `standard C functions` | `C` , `Makefile` | n.a. | n.a. | ![Libft(extended) last commit](https://img.shields.io/github/last-commit/teresa-chow/42-libft-extended)
 0 | [Libft](https://github.com/teresa-chow/42-libft) | `C library`, `standard C functions` | `C` , `Makefile` | 125/100 | 2023.11.11 | ![Libft last commit](https://img.shields.io/github/last-commit/teresa-chow/42-libft)
-
-___
-
-</br>
-
-# :dart: Exam preparation
-
-</br>
-
-Exam | Score | Validation date
---|--|:--:
-[Exam Rank 02](https://github.com/teresa-chow/42-exam-prep/tree/main/rank_02) | | 
-
-</br>
 
 ___
 
@@ -59,6 +42,9 @@ ___
 
 Project | Language | Date | Notes
 --|--|--|--
+[Visuinnovation Hackathon]() | | 2024.09 |
+[Google Cloud Hackathon]() | -- | 2024.06 | --
+[Vicaima Hackathon](https://github.com/teresa-chow/42-hackathon-vicaima) | `Python`, `JavaScript`, `HTML` | 2024.05 | :1st_place_medal: 1st place
 [Sogrape Hackathon](https://github.com/teresa-chow/42-hackathon-sogrape) | `Python` , `PHP` , `CSS` | 2023.10 | :3rd_place_medal: 3rd place
 
 </br>
