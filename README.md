@@ -24,13 +24,13 @@ ___
 
 </br>
 
-Rank | Project | Tags | Language | Score | Validation date | Activity
---|--|--|--|--|:--:|--
-1 | [Born2beRoot](https://github.com/teresa-chow/42-Born2beRoot) | `VM`, `system administration` | `shell` | 120/100 | 2024.02.04 | ![Born2beRoot last commit](https://img.shields.io/github/last-commit/teresa-chow/42-Born2beRoot)
-1 | [get_next_line](https://github.com/teresa-chow/42-get_next_line) | `static variable`, `file descriptor` | `C` | 125/100 | 2024.01.04 | ![get_next_line last commit](https://img.shields.io/github/last-commit/teresa-chow/42-get_next_line)
-1 | [ft_printf](https://github.com/teresa-chow/42-ft_printf) | `variadic functions` | `C` , `Makefile` | 100/100 | 2023.11.27 | ![ft_printf last commit](https://img.shields.io/github/last-commit/teresa-chow/42-ft_printf)
-n.a. | [Libft (extended)](https://github.com/teresa-chow/42-libft-extended) | `C library`, `standard C functions` | `C` , `Makefile` | n.a. | n.a. | ![Libft(extended) last commit](https://img.shields.io/github/last-commit/teresa-chow/42-libft-extended)
-0 | [Libft](https://github.com/teresa-chow/42-libft) | `C library`, `standard C functions` | `C` , `Makefile` | 125/100 | 2023.11.11 | ![Libft last commit](https://img.shields.io/github/last-commit/teresa-chow/42-libft)
+Rank | Project | Tags | Language | Score
+--|--|--|--|--
+1 | [Born2beRoot](https://github.com/teresa-chow/42-Born2beRoot) | `VM`, `system administration` | `shell` | 120/100
+1 | [get_next_line](https://github.com/teresa-chow/42-get_next_line) | `static variable`, `file descriptor` | `C` | 125/100
+1 | [ft_printf](https://github.com/teresa-chow/42-ft_printf) | `variadic functions` | `C` , `Makefile` | 100/100
+n.a. | [Libft (extended)](https://github.com/teresa-chow/42-libft-extended) | `C library`, `standard C functions` | `C` , `Makefile` | n.a.
+0 | [Libft](https://github.com/teresa-chow/42-libft) | `C library`, `standard C functions` | `C` , `Makefile` | 125/100
 
 ___
 
