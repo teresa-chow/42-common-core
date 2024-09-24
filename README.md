@@ -42,7 +42,7 @@ ___
 
 Project | Language | Date | Notes
 --|--|--|--
-[Visuinnovation Hackathon]() | | 2024.09 |
+[Visuinnovation Hackathon](https://github.com/teresa-chow/42-hackathon-visuinnovation) | -- | 2024.09 | _wip_
 [Google Cloud Hackathon](https://github.com/teresa-chow/42-hackathon-google-cloud) | -- | 2024.06 | --
 [Vicaima Hackathon](https://github.com/teresa-chow/42-hackathon-vicaima) | `Python`, `JavaScript`, `HTML` | 2024.05 | :1st_place_medal: 1st place
 [Sogrape Hackathon](https://github.com/teresa-chow/42-hackathon-sogrape) | `Python` , `PHP` , `CSS` | 2023.10 | :3rd_place_medal: 3rd place
