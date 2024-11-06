@@ -13,7 +13,7 @@ ___
 
 </br>
 
-# Projects
+## Projects
 
 > **Kick-off #03:** 2 Oct. 2023
 
@@ -37,7 +37,7 @@ ___
 
 </br>
 
-# Additional IT projects
+## Additional IT projects
 
 </br>
 
@@ -47,6 +47,17 @@ Project | Description | Contribute / Role | Tags | Date | Notes
 [Google Cloud Hackathon](https://github.com/teresa-chow/42-hackathon-google-cloud) | _Smart Agent to aid hospital triage_ | Project Manager, Communication Designer, Copywriter | `Google Cloud Services`, `Python`, `Cloud Functions` | 2024.06 | --
 [Vicaima Hackathon](https://github.com/teresa-chow/42-hackathon-vicaima) | _HR performance dialogue platform_ | Project Manager, UX/UI Designer, Communication Designer | `Python`, `JavaScript`, `HTML` | 2024.05 | :1st_place_medal: 1st place
 [Sogrape Hackathon](https://github.com/teresa-chow/42-hackathon-sogrape) | _Wine price comparison web scraping website_ | UI Designer, Communication Designer, Copywriter | `Figma`, `Python` , `PHP` , `CSS` | 2023.10 | :3rd_place_medal: 3rd place
+
+___
+
+</br>
+
+## 42Porto Students' Association
+
+> **1st Mandate:** _November 2023 – May 2024_ </br>
+> **2nd Mandate:** _June 2024 – November 2024_
+>
+> **Role:** Founding Member & Coordinator
 
 </br>
 
