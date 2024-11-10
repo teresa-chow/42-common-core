@@ -26,7 +26,7 @@ ___
 
 Rank | Project | Tags | Language | Score
 --|--|--|--|--
-2 | [Minitalk](https://github.com/teresa-chow/42-minitalk) | `server-client communication`, `signal processing` | `C`| 125/100
+2 | [Minitalk](https://github.com/teresa-chow/42-minitalk) | `server-client communication`, `signal processing` | `C` , `Makefile` | 125/100
 1 | [Born2beRoot](https://github.com/teresa-chow/42-Born2beRoot) | `VM`, `system administration` | `shell` | 120/100
 1 | [get_next_line](https://github.com/teresa-chow/42-get_next_line) | `static variable`, `file descriptor` | `C` | 125/100
 1 | [ft_printf](https://github.com/teresa-chow/42-ft_printf) | `variadic functions` | `C` , `Makefile` | 100/100
