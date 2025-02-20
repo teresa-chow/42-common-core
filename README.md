@@ -26,7 +26,8 @@ ___
 
 Rank | Project | Tags | Language | Score
 --|--|--|--|--
-3 | [Philosophers](https://github.com/teresa-chow/42-philosophers) | `multithreading`, `concurrency`, `synchronization` | `C`, `Makefile` | /
+3 | [minishell](https://github.com/teresa-chow/42-minishell) | `UNIX shell`, `parsing`, `processes`, `file descriptors`  | `C`, `Makefile` | /100
+3 | [Philosophers](https://github.com/teresa-chow/42-philosophers) | `multithreading`, `concurrency`, `synchronization` | `C`, `Makefile` | /100
 2 | [push_swap](https://github.com/teresa-chow/42-push_swap) | `sorting algorithms`, `greedy algorithm` | `C`, `Makefile` | 100/100
 2 | [FdF](https://github.com/teresa-chow/42-fdf) | `computer graphics`, `wireframe rendering`, `projection mapping` | `C`, `Makefile` | 100/100
 2 | [Minitalk](https://github.com/teresa-chow/42-minitalk) | `server-client communication`, `signal processing` | `C` , `Makefile` | 125/100
