@@ -7,7 +7,7 @@ ___
 
 
 ### Table of contents
-[Projects](#projects) · [Additional experiences](#additional-experiences)
+[Projects](#projects) · [Additional IT projects](#additional-it-projects)
 
 ___
 
@@ -26,6 +26,8 @@ ___
 
 Rank | Project | Tags | Language | Score
 --|--|--|--|--
+4 | NetPractice | `computer networks`, `IP addressing`, `subnetting`, `routing`, `IPv4` | | 100/100
+4 | [cub3D](https://github.com/teresa-chow/42-cub3d) | `computer graphics`, `raycasting`, `game engine` | `C`, `shell`, `Makefile` | 110/100
 3 | [minishell](https://github.com/teresa-chow/42-minishell) | `UNIX shell`, `parsing`, `processes`, `file descriptors`  | `C`, `shell`, `Makefile` | 125/100
 3 | [Philosophers](https://github.com/teresa-chow/42-philosophers) | `multithreading`, `concurrency`, `synchronization` | `C`, `Makefile` | 100/100
 2 | [push_swap](https://github.com/teresa-chow/42-push_swap) | `sorting algorithms`, `greedy algorithm` | `C`, `Makefile` | 100/100
